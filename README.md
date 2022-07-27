@@ -1,8 +1,8 @@
 # Lee Ki Hwan (Justin)
 
 ## work info
-#### 전) e-commerce 백엔드/백오피스 개발 약5년
-#### 현) healthcare 프론트엔드 개발 약2년
+#### e-commerce Back-End/BackOffice
+#### healthcare Front-End/Back-End
 
 
 ## Back-End
