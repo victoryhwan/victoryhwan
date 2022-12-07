@@ -1,10 +1,5 @@
 # Lee Ki Hwan (Justin)
 
-## work info
-#### e-commerce Back-End/BackOffice
-#### healthcare Front-End/Back-End
-
-
 ## Back-End
 <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=black"/> <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=spring&logoColor=black"/> <img alt="oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=oracle&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=black"/> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=mysql&logoColor=black"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=black"/> <br>
 
